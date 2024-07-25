@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Dinosaur";
+    src: url('../fonts/Dinosaur/Dinosaur.otf');
+}
+
+@font-face {
+    font-family: "Ferdinand Font";
+    src: url('../fonts/Ferdinand/FerdinandFont-Regular.ttf');
+}
+
+@font-face {
+    font-family: "ObelixPro";
+    src: url('../fonts/ObelixPro/Obelix\ Pro.ttf');
+}
+
+@font-face {
+    font-family: "mr_CountryhouseG";
+    src: url('../fonts/mr_CountryhouseG/mr_countryhouseg.ttf');
+}
+
+@font-face {
+    font-family: "Ferdinand Font";
+    src: url("https://db.onlinewebfonts.com/t/6eff7ba2eb751ba0b16ff12ddcbae0ca.eot");
+    src: url("https://db.onlinewebfonts.com/t/6eff7ba2eb751ba0b16ff12ddcbae0ca.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/6eff7ba2eb751ba0b16ff12ddcbae0ca.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/6eff7ba2eb751ba0b16ff12ddcbae0ca.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/6eff7ba2eb751ba0b16ff12ddcbae0ca.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/6eff7ba2eb751ba0b16ff12ddcbae0ca.svg#Ferdinand Font")format("svg");
+}
+
+:root {
+    --font-family: "Dinosaur", sans-serif;
+    --second-family: "Ferdinand Font", sans-serif;
+    --third-family: "ObelixPro", sans-serif;
+    --font3: "mr_CountryhouseG", sans-serif;
+}
